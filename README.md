@@ -27,4 +27,12 @@ This project is an AI-powered Job Recommendation System that suggests relevant j
 
 ## 📁 Project Structure
 
+---
+
+## 🚀 Live Demo
+
+👉 [Click here to try the Job Recommendation App](https://your-link.streamlit.app)
+
+
+
 
