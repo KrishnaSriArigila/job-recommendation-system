@@ -1,15 +1,16 @@
-# Job Recommendation System Based on Resume
+# Job Recommendation System Based on Skills
 
-This project is an AI-powered Job Recommendation System that suggests relevant job roles based on the user's resume or listed skills. It utilizes Natural Language Processing (NLP) to extract keywords and match them with job descriptions from a dataset.
+This project is an AI-powered Job Recommendation System that suggests relevant job roles based on the user's listed skills. 
+It utilizes Natural Language Processing (NLP) to extract keywords and match them with job descriptions from a dataset.
 
 ---
 
 ## 🔍 Features
 
-- Extracts skills and keywords from resume text
-- Matches resume skills with relevant job roles
+- Takes user-entered skills as input
+- Extracts and matches skills with relevant job roles
 - Provides top job recommendations
-- Web interface built using Flask
+- Web interface built using Streamlit
 - Preprocessed dataset for faster recommendation
 
 ---
@@ -17,21 +18,16 @@ This project is an AI-powered Job Recommendation System that suggests relevant j
 ## 🚀 Tech Stack
 
 - **Python**
-- **Flask** (for the web app)
+- **Streamlit** (for the web app)
 - **NLTK / SpaCy** (for text processing)
 - **Pandas & NumPy** (for data handling)
-- **HTML + CSS** (for frontend)
 - **Git & GitHub** (version control)
 
 ---
 
 ## 📁 Project Structure
 
----
 
-## 🚀 Live Demo
-
-👉 [Click here to try the Job Recommendation App](https://your-link.streamlit.app)
 
 
 
